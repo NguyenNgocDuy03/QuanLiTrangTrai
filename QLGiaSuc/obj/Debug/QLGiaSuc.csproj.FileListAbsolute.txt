@@ -1,0 +1,32 @@
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\bin\Debug\QLGiaSuc.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\bin\Debug\QLGiaSuc.exe
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\bin\Debug\QLGiaSuc.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.exe
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.TrangChu.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.QLDongVat.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.HoSoSucKhoe.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.HoSoVacXin.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.LichChamSoc.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.LichSuTangTruong.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\bin\Debug\QLGiaSuc.exe.config
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\bin\Debug\QLGiaSuc.exe
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\bin\Debug\QLGiaSuc.pdb
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.Form1.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.HoSoSucKhoe.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.HoSoVacXin.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.LichChamSoc.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.LichSuTangTruong.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.Properties.Resources.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.QLDongVat.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.TrangChu.resources
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.exe
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.pdb
+C:\Users\PC\Desktop\QLGiaSuc\QLGiaSuc\QLGiaSuc\obj\Debug\QLGiaSuc.Dangki.resources
